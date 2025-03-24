@@ -4,9 +4,9 @@
 
 Analysis on customer churn revealing key insights into characteristics and behaviours of customers who are most likely to leave.
 
-### Datasource:
+### Datasource: Kaggle
 
-### Dataset:
+### Dataset: https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
 
 ### Data Cleaning Process:
 
