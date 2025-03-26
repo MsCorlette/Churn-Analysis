@@ -6,6 +6,12 @@ Analysis on customer churn revealing key insights into characteristics and behav
 
 ### Datasource: Kaggle
 
+### Tools and Technologies
+
+Data Cleaning: Excel
+
+Data Visualisation: Power BI
+
 ### Dataset: https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
 
 ### Data Cleaning Process:
