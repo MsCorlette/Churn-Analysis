@@ -14,6 +14,10 @@ Data Visualisation: Power BI
 
 ### Dataset: https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
 
+### Dashboard Report
+
+View the full dashboard report here:
+
 ### Data Cleaning Process:
 
 1.  Removed duplicate records to ensure data integrity
